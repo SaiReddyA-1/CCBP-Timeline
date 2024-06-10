@@ -1,5 +1,3 @@
-Sure, here's the revised version without the dropdowns:
-
 I've constructed this **CCBP Timeline** application utilizing the principles we've covered thus far.
 
 ### Reference Image:
